@@ -1,0 +1,13 @@
+---
+title: "Chloe Hu"
+image: "files/profile_pic.jpeg"
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      href: mailto:qih021@ucsd.edu
+    - icon: linkedin
+      href: https://www.linkedin.com/in/qinyi-hu-52128b320/
+---
+
+Welcome to my website!
