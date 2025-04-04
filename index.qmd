@@ -5,7 +5,7 @@ about:
   template: jolla
   links:
     - icon: envelope
-      href: mailto:qih021@ucsd.edu
+      href: mailto:huqy0908@gmail.com
     - icon: linkedin
       href: https://www.linkedin.com/in/qinyi-hu-52128b320/
 ---
