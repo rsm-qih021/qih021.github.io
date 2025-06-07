@@ -29,5 +29,8 @@
   "blog/project3/index.qmd": {
     "index.tex": "4dcbf7fe",
     "index.html": "616708ff"
+  },
+  "blog/project4/index.qmd": {
+    "index.html": "0b0df3a6"
   }
 }
